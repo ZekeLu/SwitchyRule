@@ -18,9 +18,15 @@ https://*.atlassian.com/*
 http://www.youtube.com/*
 *.google.com.hk/*
 *.google.com/*
+*.github.com/*
+*.php.net/*
+https://*.youtube.com/*
+*.ytimg.com/*
+golang.org/*
+*.engadget.com/*
+sourceforge.net/*
 *.gstatic.com/*
 http://sammyjs.org/*
-
 [regexp]
 
 
