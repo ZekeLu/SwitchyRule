@@ -38,6 +38,8 @@ http://digg.com/*
 http://feeds.feedburner.com/*
 http://www.json-generator.com/*
 *.chrome.com/*
+http://stackoverflow.com/*
+*.stackoverflow.com/*
 [regexp]
 
 
