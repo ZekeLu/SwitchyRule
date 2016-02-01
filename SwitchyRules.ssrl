@@ -9,6 +9,7 @@ https://cdn.optimizely.com/*
 *://connect.facebook.net/*
 *://*.fbcdn.net/*
 https://github.global.ssl.fastly.net/*
+https://gist.github.com/*
 *://twitter.com/*
 *://*.twitter.com/*
 https://*.twimg.com/*
