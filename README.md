@@ -9,5 +9,5 @@ How to use it
 Paste this url into [SwitchySharp](http://code.google.com/p/switchy/)
 
 ```
-https://raw.github.com/ZekeLu/SwitchyRule/master/SwitchyRules.ssrl
+https://raw.githubusercontent.com/ZekeLu/SwitchyRule/master/SwitchyRules.ssrl
 ```
