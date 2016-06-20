@@ -25,7 +25,7 @@ https://youtu.be/*
 *.google.com/*
 *.googleusercontent.com/*
 *.android.com/*
-https://www.chromium.org/*
+https://*.chromium.org/*
 https://*.ggpht.com/*
 https://angularjs.org/*
 https://*.angularjs.org/*
