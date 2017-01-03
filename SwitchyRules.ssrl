@@ -60,6 +60,7 @@ https://www.gravatar.com/*
 https://*.heroku.com/*
 https://*.herokuapp.com/*
 https://shipio-production-herokuapp-com.global.ssl.fastly.net/*
+https://medium.com/*
 [regexp]
 
 
