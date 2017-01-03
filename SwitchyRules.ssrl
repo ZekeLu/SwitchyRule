@@ -61,6 +61,7 @@ https://*.heroku.com/*
 https://*.herokuapp.com/*
 https://shipio-production-herokuapp-com.global.ssl.fastly.net/*
 https://medium.com/*
+https://*.medium.com/*
 [regexp]
 
 
