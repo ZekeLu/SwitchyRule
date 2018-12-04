@@ -63,6 +63,7 @@ https://*.herokuapp.com/*
 https://shipio-production-herokuapp-com.global.ssl.fastly.net/*
 https://medium.com/*
 https://*.medium.com/*
+*.tensorflow.org/*
 [regexp]
 
 
